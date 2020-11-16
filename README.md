@@ -53,7 +53,7 @@ mezi s sebou,
 - `Transponuj` – transponuje matici,
 - `Gauss(var boolean, var TMatice)`, `Gauss (var TMatice)` – p&#345;evede danou
 matici do Gaussova tvaru, pokud je to moné; varianta s referen&#269;ním parametrem
-typu boolean navíc vrátí informaci, jestli je pot&#345;eba zmìnit znaménko p&#345i
+typu boolean navíc vrátí informaci, jestli je pot&#345;eba zmìnit znaménko p&#345;i
 po&#269;ítání determinantu matice (operace prohození &#345;ádk&#367; p&#345;i po&#269;ítání determinantu
 mìní jeho znaménko),
 -	`VyhodnoceniGauss(var TDynPole)` – vyhodnotí matici soustavy lineárních
@@ -74,7 +74,7 @@ sloupci matice, prohazování &#345;ádk&#367;, apod.
 
 <p>
 Poslední jednotkou pouívanou v programu je jednotka <code>UZlomky</code>. Ta zaji&#353;uje
-práci se zlomky ve tvaru <code>p/q</code>, kde <code>p&#8712Z</code>, <code>q&#8712N</code>, konkrétnì nap&#345;. o
+práci se zlomky ve tvaru <code>p/q</code>, kde <code>p &#8712; &#8484;</code>, <code>q &#8712; &#8469;</code>, konkrétnì nap&#345;. o
 krácení, s&#269;ítání, od&#269;ítání a násobení zlomk&#367;. Nejd&#367;leitìj&#353;ími funkcemi této
 jednotky jsou:
 </p>
